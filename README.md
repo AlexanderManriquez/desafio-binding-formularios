@@ -1,5 +1,13 @@
-# Vue 3 + Vite
+En este proyecto tuvimos que crear un formulario que permita llenar de manera dinámica los datos de una tarjeta de crédito.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Requerimientos:
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+1. Enlazar el valor de los inputs con el estado de manera bidireccional usando el v-model.
+2. Interpolar en las etiquetas que correspondan las variables del estado.
+3. Crear las variables del estado correspondiente a la información de la tarjeta.
+4. Enlazar las rutas de las imágenes usando el binding unidireccional en el atributo src.
+
+Para probar este proyecto, visita el siguiente enlace:
+
+https://desafio-binding-formularios-cyan.vercel.app/
+
